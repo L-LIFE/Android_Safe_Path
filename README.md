@@ -27,6 +27,15 @@
 | ------ | ------ | ------ |
 | 1일차 기능 정리.txt | [txt File Link](https://github.com/L-LIFE/safeAPP/blob/66d999873a7085e99056956d4adf17abb69f858b/Documents/1%EC%9D%BC%EC%B0%A8%20%EA%B8%B0%EB%8A%A5%20%EC%A0%95%EB%A6%AC.txt) | 시작 단계로 어떤 기능이 있는 틀을 정리한 내용 |
 
+
+## 기능 명세서 (코드정리)
+
+코드, 기능 세부명세서
+
+| 파일 명 | 파일 링크 | 파일 설명 |
+| ------ | ------ | ------ |
+| 중간완성.txt | [txt File Link](https://github.com/L-LIFE/safeAPP/blob/66d999873a7085e99056956d4adf17abb69f858b/Documents/1%EC%9D%BC%EC%B0%A8%20%EA%B8%B0%EB%8A%A5%20%EC%A0%95%EB%A6%AC.txt) | 코드 문서를 정리한 중간내용 |
+
 ## 화면 설계서
 
 화면 정리 
