@@ -34,7 +34,7 @@
 
 | 파일 명 | 파일 링크 | 파일 설명 |
 | ------ | ------ | ------ |
-| 중간완성.txt | [File Link]([https://github.com/L-LIFE/safeAPP/blob/66d999873a7085e99056956d4adf17abb69f858b/Documents/1%EC%9D%BC%EC%B0%A8%20%EA%B8%B0%EB%8A%A5%20%EC%A0%95%EB%A6%AC.txt](https://github.com/L-LIFE/safeAPP/blob/ea651c0ce8c7fa3f79b3200a447219c292e48577/Documents/%EC%BA%A1%EC%8A%A4%ED%86%A4_1%EC%A1%B0_%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4_%EB%AA%85%EC%84%B8%EC%84%9C.hwp)) | 코드 문서를 정리한 중간내용 |
+| 중간완성.txt | [File Link](https://github.com/L-LIFE/safeAPP/blob/c79eedc904f67d1af00f1e87fe9b8de7996a615c/Documents/%EC%BA%A1%EC%8A%A4%ED%86%A4_1%EC%A1%B0_%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4_%EB%AA%85%EC%84%B8%EC%84%9C.hwp) | 코드 문서를 정리한 중간내용 |
 
 ## 화면 설계서
 
