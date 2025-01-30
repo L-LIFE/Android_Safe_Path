@@ -61,15 +61,15 @@
 
 ### 주요 기능
 
-더 자세한 내용은 pdㄹ 파일을 통해 확인이 가능합니다.
+더 자세한 내용은 경진대회 보고서를 통해 확인이 가능합니다.
 
 | 기능          | 설명                                      | 이미지                                |
 |---------------|-------------------------------------------|---------------------------------------|
-| **안심 CCTV와 비상벨** | 안심 CCTV와 비상벨이 지도 위에 띄워집니다. | ![안심 CCTV와 비상벨](https://github.com/user-attachments/assets/106a733e-e289-429e-a08d-d15d9c07a86c) |
-| **최단 경로 추천**  | 출발지와 도착지를 기준으로 최단 경로를 추천합니다. | ![최단 경로 추천](https://github.com/user-attachments/assets/5c7211b5-d6be-4c81-83c5-ab75f0da81e1)  |
-| **친구와 메시지 공유** | 친구 추가한 친구와 메시지를 나눌 수 있습니다. | ![친구와 메시지 공유](https://github.com/user-attachments/assets/a35ea544-cbf4-4d8d-afc0-821839e2b1b2) |
-| **프로필 및 지인 거리 확인** | 프로필 수정, 친구 수, 지인 거리를 확인할 수 있습니다. | ![프로필 및 지인 거리](https://github.com/user-attachments/assets/f22bb927-9c46-411e-8191-53fcc8b5fc8c) |
-| **긴급 신고 기능** | 긴급 신고 시 설정해놓은 시간이 지난 후 경찰에 신고가 됩니다. | ![긴급 신고 기능](https://github.com/user-attachments/assets/fe261fd2-58ab-404f-a9fd-bf757ef7f63a) |
+| **안심 CCTV와 비상벨** | 안심 CCTV와 비상벨이 지도 위에 띄워집니다. | ![안심 CCTV와 비상벨](https://github.com/user-attachments/assets/37e7d76c-6fa4-46f4-815b-b9d9747b2587) |
+| **최단 경로 추천**  | 출발지와 도착지를 기준으로 최단 경로를 추천합니다. | ![최단 경로 추천](https://github.com/user-attachments/assets/b766091b-5747-45c2-b293-85c80a47f189)  |
+| **친구와 메시지 공유** | 친구 추가한 친구와 메시지를 나눌 수 있습니다. | ![친구와 메시지 공유](https://github.com/user-attachments/assets/0ae4d168-d65d-4ec2-953c-7d7d6623ef8f) |
+| **프로필 및 지인 거리 확인** | 프로필 수정, 친구 수, 지인 거리를 확인할 수 있습니다. | ![프로필 및 지인 거리](https://github.com/user-attachments/assets/f87ac14c-d66f-49b2-85c3-23bfba6a9770)|
+| **긴급 신고 기능** | 긴급 신고 시 설정해놓은 시간이 지난 후 경찰에 신고가 됩니다. | ![긴급 신고 기능](https://github.com/user-attachments/assets/8f67fb23-7c54-4477-808a-b66b0744d635)|
 | **설정 기능** | 설정을 통해 프로필 수정, 소리, 신고, 언어 설정을 할 수 있으며 업데이트 정보와 내 정보 초기화를 할 수 있습니다. | ![설정 기능](https://github.com/user-attachments/assets/6da1fec8-1cfc-466f-ba7c-8a2d646ba00e) |
 | **언어 설정** | 한국어, 영어, 중국어, 스페인어로 언어 설정이 가능합니다. | ![언어 설정](https://github.com/user-attachments/assets/6c26dd05-6625-48c0-9b3f-b24dcf793401) |
 
